@@ -1,4 +1,5 @@
 import {
+    
     mobile,
     backend,
     creator,
@@ -153,7 +154,7 @@ import {
     {
       title: "Full stack Developer",
       company_name: "Searching for Internship",
-      icon: meta,
+      icon: javascript,
       iconBg: "#E6DEDD",
       date: "Jan 2023 - Present",
       points: [

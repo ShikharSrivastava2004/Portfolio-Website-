@@ -1,6 +1,6 @@
 import logo from "./logo-white.svg";
 import backend from "./backend.png";
-import creator from "./creator.png";
+import creator from "./gym-fitness-128.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
@@ -22,9 +22,9 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
 import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import shopify from "./305317853_616467910000160_3824851731065368025_n.png";
+import starbucks from "./294923926_544176797498327_2266684553933447235_n.jpg";
+import tesla from "./310389785_473103938192318_3009047771529727630_n.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
